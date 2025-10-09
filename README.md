@@ -17,7 +17,7 @@ An API Client Builder Library
 You can install the package via composer:
 
 ```bash
-composer require macsidigital/laravel-api-client
+composer require satyam147/laravel-api-client
 ```
 
 ## Versions
